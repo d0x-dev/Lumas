@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2172" height="724" alt="Lumas" src="https://github.com/user-attachments/assets/cbc22cf7-856c-4e60-b47d-79894c32ad57" />
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/c97b6a52-1869-4bc7-b6e6-4431080ac5c3" />
 
 # Lumas
 
